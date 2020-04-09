@@ -1,0 +1,13 @@
+---------1---------2---------3---------4---------5---------6---------7
+infile(a)                               Tres.dat
+outfile(a)                              TresBPF_.dat
+# of total data(i)                      20460
+t ; sample time interval(f:in minute)   60.0
+N; half # of filter weight(even #)(i)   840
+L; low cutoff freq.(f10.4)              6.
+M; high cutoff freq.(f10.4)             48.0
+ndt; interval of the filtered data      6
+ncut                                    0
+ifc                                     0
+input data format(a50)                  (f10.5,f10.6)
+output data format(a50)                 (f10.5,f10.6)
