@@ -1,5 +1,5 @@
 # Objective Analysis
-- 2019 객관적자료분석 Python
+- 2019 객관적자료분석 Python 참고 코드
 
 ## HW1
 - Basic statistics
